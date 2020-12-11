@@ -1,0 +1,26 @@
+D:\A pm\hw\Hw 11.12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.csprojAssemblyReference.cache
+D:\A pm\hw\Hw 11.12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.AssemblyInfoInputs.cache
+D:\A pm\hw\Hw 11.12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.AssemblyInfo.cs
+D:\A pm\hw\Hw 11.12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.csproj.CoreCompileInputs.cache
+D:\A pm\hw\Hw 11.12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.exe
+D:\A pm\hw\Hw 11.12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.deps.json
+D:\A pm\hw\Hw 11.12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.runtimeconfig.json
+D:\A pm\hw\Hw 11.12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.runtimeconfig.dev.json
+D:\A pm\hw\Hw 11.12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.dll
+D:\A pm\hw\Hw 11.12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.pdb
+D:\A pm\hw\Hw 11.12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.dll
+D:\A pm\hw\Hw 11.12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.pdb
+D:\A pm\hw\Hw 11.12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.genruntimeconfig.cache
+D:\A_PM\hw\Hw11_12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.exe
+D:\A_PM\hw\Hw11_12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.deps.json
+D:\A_PM\hw\Hw11_12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.runtimeconfig.json
+D:\A_PM\hw\Hw11_12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.runtimeconfig.dev.json
+D:\A_PM\hw\Hw11_12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.dll
+D:\A_PM\hw\Hw11_12\Ex2-3\bin\Debug\netcoreapp3.1\Ex2-3.pdb
+D:\A_PM\hw\Hw11_12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.csprojAssemblyReference.cache
+D:\A_PM\hw\Hw11_12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.AssemblyInfoInputs.cache
+D:\A_PM\hw\Hw11_12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.AssemblyInfo.cs
+D:\A_PM\hw\Hw11_12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.csproj.CoreCompileInputs.cache
+D:\A_PM\hw\Hw11_12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.dll
+D:\A_PM\hw\Hw11_12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.pdb
+D:\A_PM\hw\Hw11_12\Ex2-3\obj\Debug\netcoreapp3.1\Ex2-3.genruntimeconfig.cache

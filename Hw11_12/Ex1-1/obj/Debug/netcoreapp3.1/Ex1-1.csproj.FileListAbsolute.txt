@@ -1,0 +1,13 @@
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\bin\Debug\netcoreapp3.1\Ex1-1.exe
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\bin\Debug\netcoreapp3.1\Ex1-1.deps.json
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\bin\Debug\netcoreapp3.1\Ex1-1.runtimeconfig.json
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\bin\Debug\netcoreapp3.1\Ex1-1.runtimeconfig.dev.json
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\bin\Debug\netcoreapp3.1\Ex1-1.dll
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\bin\Debug\netcoreapp3.1\Ex1-1.pdb
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\obj\Debug\netcoreapp3.1\Ex1-1.csprojAssemblyReference.cache
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\obj\Debug\netcoreapp3.1\Ex1-1.AssemblyInfoInputs.cache
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\obj\Debug\netcoreapp3.1\Ex1-1.AssemblyInfo.cs
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\obj\Debug\netcoreapp3.1\Ex1-1.csproj.CoreCompileInputs.cache
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\obj\Debug\netcoreapp3.1\Ex1-1.dll
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\obj\Debug\netcoreapp3.1\Ex1-1.pdb
+D:\Pm\hw\Hw 11.12\Hw 11.12\Ex1-1\obj\Debug\netcoreapp3.1\Ex1-1.genruntimeconfig.cache

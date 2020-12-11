@@ -1,0 +1,12 @@
+D:\A_PM\hw\Hw11_12\Ex2-4\obj\Debug\netcoreapp3.1\Ex2-4.AssemblyInfoInputs.cache
+D:\A_PM\hw\Hw11_12\Ex2-4\obj\Debug\netcoreapp3.1\Ex2-4.AssemblyInfo.cs
+D:\A_PM\hw\Hw11_12\Ex2-4\obj\Debug\netcoreapp3.1\Ex2-4.csproj.CoreCompileInputs.cache
+D:\A_PM\hw\Hw11_12\Ex2-4\bin\Debug\netcoreapp3.1\Ex2-4.exe
+D:\A_PM\hw\Hw11_12\Ex2-4\bin\Debug\netcoreapp3.1\Ex2-4.deps.json
+D:\A_PM\hw\Hw11_12\Ex2-4\bin\Debug\netcoreapp3.1\Ex2-4.runtimeconfig.json
+D:\A_PM\hw\Hw11_12\Ex2-4\bin\Debug\netcoreapp3.1\Ex2-4.runtimeconfig.dev.json
+D:\A_PM\hw\Hw11_12\Ex2-4\bin\Debug\netcoreapp3.1\Ex2-4.dll
+D:\A_PM\hw\Hw11_12\Ex2-4\bin\Debug\netcoreapp3.1\Ex2-4.pdb
+D:\A_PM\hw\Hw11_12\Ex2-4\obj\Debug\netcoreapp3.1\Ex2-4.dll
+D:\A_PM\hw\Hw11_12\Ex2-4\obj\Debug\netcoreapp3.1\Ex2-4.pdb
+D:\A_PM\hw\Hw11_12\Ex2-4\obj\Debug\netcoreapp3.1\Ex2-4.genruntimeconfig.cache
